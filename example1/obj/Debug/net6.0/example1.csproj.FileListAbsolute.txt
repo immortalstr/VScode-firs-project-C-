@@ -1,0 +1,15 @@
+/Users/mac/Desktop/VSCODE-Projects/example1/bin/Debug/net6.0/example1
+/Users/mac/Desktop/VSCODE-Projects/example1/bin/Debug/net6.0/example1.deps.json
+/Users/mac/Desktop/VSCODE-Projects/example1/bin/Debug/net6.0/example1.runtimeconfig.json
+/Users/mac/Desktop/VSCODE-Projects/example1/bin/Debug/net6.0/example1.dll
+/Users/mac/Desktop/VSCODE-Projects/example1/bin/Debug/net6.0/example1.pdb
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.AssemblyInfo.cs
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.dll
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/refint/example1.dll
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.pdb
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/example1.genruntimeconfig.cache
+/Users/mac/Desktop/VSCODE-Projects/example1/obj/Debug/net6.0/ref/example1.dll
